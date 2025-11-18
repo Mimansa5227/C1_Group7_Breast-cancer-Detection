@@ -1,8 +1,8 @@
 # AIML project Group-7_C1_Breast-cancer-Detection
+Contributors: UCE2023605, UCE023623, UCE2023625
+Presentation link: https://drive.google.com/file/d/1ZdCoofnovzfHbweOrjcU_2bo0oJgg6d6/view?usp=sharing
 
 # 🔬 Multimodal Breast Cancer Diagnostic Hub
-
-Contributors: UCE2023605, UCE023623, UCE2023625
 
 An integrated, interactive web application built with Streamlit for multimodal breast cancer analysis. This tool provides two distinct, parallel pipelines for diagnostic prediction: one for mammographic image analysis using Deep Learning, and one for tabular clinical data using classical Machine Learning.
 
