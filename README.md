@@ -1,5 +1,6 @@
 # AIML project Group-7_C1_Breast-cancer-Detection
 Contributors: UCE2023605, UCE023623, UCE2023625
+
 Presentation link: https://drive.google.com/file/d/1ZdCoofnovzfHbweOrjcU_2bo0oJgg6d6/view?usp=sharing
 
 # 🔬 Multimodal Breast Cancer Diagnostic Hub
@@ -40,7 +41,7 @@ An end-to-end dashboard for analyzing tabular clinical data (e.g., the UCI Wisco
 * **Backend:** Python
 * **Web Framework:** Streamlit
 * **Deep Learning:** TensorFlow, Keras (for ResNet-50 & 1D CNNs)
-* **Machine Learning:** Scikit-learn (for RF, DT, SVM, KNN, LR, PCA, K-Means)
+* **Machine Learning:** Scikit-learn (for RandomForest, DecisionTrees, SVM, KNearestNeighbours, LogisticRegression, PCA, K-Means)
 * **Explainability:** `tf-keras-vis` (for Grad-CAM), `scikit-learn` (for Feature Importance)
 * **Data Manipulation:** Pandas, NumPy
 * **Plotting:** Matplotlib, Seaborn
